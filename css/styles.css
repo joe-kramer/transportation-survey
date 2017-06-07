@@ -1,3 +1,8 @@
+transportation_survey/css/styles.css
 #work-responses {
+  display: none;
+}
+
+#fun-responses {
   display: none;
 }
